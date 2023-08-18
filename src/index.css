@@ -74,9 +74,3 @@ button:focus-visible {
   max-width: 100%;
   
 }
-
-#logo:hover{
-  cursor: pointer;
-  transform: scale(1.1);
- 
-}
