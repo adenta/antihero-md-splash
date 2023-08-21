@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div>
           <img id="logo" src={logo} />
-         <p style={{fontSize:'20px', lineHeight:'2'}}>AntiheroMD is an innovative research project exploring the needs of physicians currently in or interested in private practice. AntiheroMD is a product of <a href="https://healthworx.studio">Healthworx Studio</a>, all rights reserved.</p>
+         <p style={{fontSize:'20px', lineHeight:'2'}}>HeroMD is an innovative research project exploring the needs of physicians currently in or interested in private practice. HeroMD is a product of <a href="https://healthworx.studio">Healthworx Studio</a>, all rights reserved.</p>
       </div>
     </div>
   );
